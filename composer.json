@@ -1,0 +1,20 @@
+{
+    "name": "thejokersthief/hg-stats",
+    "description": "Wordpress Statistics output to Hosted Graphtie",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Evan Smith",
+            "email": "esincork@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.1",
+        "rmccue/requests": "^1.7"
+    },
+    "config": {
+        "platform": {
+            "php": "5.6.1"
+        }
+    }
+}
